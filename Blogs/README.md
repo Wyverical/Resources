@@ -8,7 +8,6 @@
 - [Technology Blogs](https://github.com/Wyverical/Resources/tree/main/Blogs#technology-blogs)
 
 [<img align = 'right' src="https://github.com/Wyverical/Resources/blob/main/arrow.png" alt="To the Top" width="50" height="50">](https://github.com/Wyverical/Resources/tree/main/Blogs#blogs)
-<br>
 
 ### Medium Blogs 
 
@@ -31,7 +30,7 @@
 - [Standford AI Healthcare](https://medium.com/stanford-ai-for-healthcare)
 
 [<img align = 'right' src="https://github.com/Wyverical/Resources/blob/main/arrow.png" alt="To the Top" width="50" height="50">](https://github.com/Wyverical/Resources/tree/main/Blogs#blogs)
-<br>
+
 
 ### Data Science Blogs
 
@@ -72,7 +71,7 @@
 - [Career Paths Within Data Science](https://medium.com/ds3ucsd/career-paths-within-data-science-4243679c04b9)
 
 [<img align = 'right' src="https://github.com/Wyverical/Resources/blob/main/arrow.png" alt="To the Top" width="50" height="50">](https://github.com/Wyverical/Resources/tree/main/Blogs#blogs)
-<br>
+
 
 ### Business Blogs
 - [Investopedia](https://www.investopedia.com/)
@@ -80,7 +79,7 @@
 - [SME Trade Academy](https://learning.intracen.org/)
 
 [<img align = 'right' src="https://github.com/Wyverical/Resources/blob/main/arrow.png" alt="To the Top" width="50" height="50">](https://github.com/Wyverical/Resources/tree/main/Blogs#blogs)
-<br>
+
 
 ### Dataset 
 
@@ -95,7 +94,7 @@
 - [Enginess Logo](https://www.enginess.io/insights/data-and-design-thinking)
 
 [<img align = 'right' src="https://github.com/Wyverical/Resources/blob/main/arrow.png" alt="To the Top" width="50" height="50">](https://github.com/Wyverical/Resources/tree/main/Blogs#blogs)
-<br>
+
 
 ### Technology Blogs
 
