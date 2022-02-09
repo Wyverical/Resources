@@ -1,11 +1,11 @@
 # Blogs
 
 **Table of Contents**
-- [Medium Blogs](https://github.com/Wyverical/Resources/edit/main/Blogs/README.md#medium-blogs)
-- [Data Science Blogs](https://github.com/Wyverical/Resources/edit/main/Blogs/README.md#data-science-blogs)
-- [Business Blogs](https://github.com/Wyverical/Resources/edit/main/Blogs/README.md#business-blogs)
-- [Dataset](https://github.com/Wyverical/Resources/edit/main/Blogs/README.md#dataset)
-- [Technology Blogs](https://github.com/Wyverical/Resources/edit/main/Blogs/README.md#technology-blogs)
+- [Medium Blogs](https://github.com/Wyverical/Resources/tree/main/Blogs#medium-blogs)
+- [Data Science Blogs](https://github.com/Wyverical/Resources/tree/main/Blogs#data-science-blogs)
+- [Business Blogs](https://github.com/Wyverical/Resources/tree/main/Blogs#business-blogs)
+- [Dataset](https://github.com/Wyverical/Resources/tree/main/Blogs#dataset)
+- [Technology Blogs](https://github.com/Wyverical/Resources/tree/main/Blogs#technology-blogs)
 
 
 ### Medium Blogs 
