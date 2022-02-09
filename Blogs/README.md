@@ -7,6 +7,8 @@
 - [Dataset](https://github.com/Wyverical/Resources/tree/main/Blogs#dataset)
 - [Technology Blogs](https://github.com/Wyverical/Resources/tree/main/Blogs#technology-blogs)
 
+[<img align = 'right' src="https://github.com/Wyverical/Resources/blob/main/arrow.png" alt="To the Top" width="50" height="50">](https://github.com/Wyverical/Resources/tree/main/Blogs#blogs)
+<br>
 
 ### Medium Blogs 
 
@@ -28,6 +30,8 @@
 - [AI Theory Practice Business](https://medium.com/ai%C2%B3-theory-practice-business)
 - [Standford AI Healthcare](https://medium.com/stanford-ai-for-healthcare)
 
+[<img align = 'right' src="https://github.com/Wyverical/Resources/blob/main/arrow.png" alt="To the Top" width="50" height="50">](https://github.com/Wyverical/Resources/tree/main/Blogs#blogs)
+<br>
 
 ### Data Science Blogs
 
@@ -67,10 +71,16 @@
 - [4 Case Study Questions for Interviewing Data Analysts at a Startup](https://www.holistics.io/blog/startup-data-analyst-interview-case-studies/)
 - [Career Paths Within Data Science](https://medium.com/ds3ucsd/career-paths-within-data-science-4243679c04b9)
 
+[<img align = 'right' src="https://github.com/Wyverical/Resources/blob/main/arrow.png" alt="To the Top" width="50" height="50">](https://github.com/Wyverical/Resources/tree/main/Blogs#blogs)
+<br>
+
 ### Business Blogs
 - [Investopedia](https://www.investopedia.com/)
 - [Trade Map](https://www.trademap.org/Index.aspx)
 - [SME Trade Academy](https://learning.intracen.org/)
+
+[<img align = 'right' src="https://github.com/Wyverical/Resources/blob/main/arrow.png" alt="To the Top" width="50" height="50">](https://github.com/Wyverical/Resources/tree/main/Blogs#blogs)
+<br>
 
 ### Dataset 
 
@@ -83,6 +93,9 @@
 - [Data gov](https://www.data.gov/)
 - [Google Datasets](https://cloud.google.com/solutions/datasets)
 - [Enginess Logo](https://www.enginess.io/insights/data-and-design-thinking)
+
+[<img align = 'right' src="https://github.com/Wyverical/Resources/blob/main/arrow.png" alt="To the Top" width="50" height="50">](https://github.com/Wyverical/Resources/tree/main/Blogs#blogs)
+<br>
 
 ### Technology Blogs
 
@@ -100,4 +113,7 @@
 - [Tech Crunch](https://techcrunch.com/)
 - [Quantum Physics ](https://www.quantamagazine.org/tag/quantum-physics/)
 - [The Verge](https://www.theverge.com/)
+
+[<img align = 'right' src="https://github.com/Wyverical/Resources/blob/main/arrow.png" alt="To the Top" width="50" height="50">](https://github.com/Wyverical/Resources/tree/main/Blogs#blogs)
+<br>
 
