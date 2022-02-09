@@ -77,6 +77,7 @@
 - [Investopedia](https://www.investopedia.com/)
 - [Trade Map](https://www.trademap.org/Index.aspx)
 - [SME Trade Academy](https://learning.intracen.org/)
+- [Harvard Business Review](https://hbr.org/)
 
 [<img align = 'right' src="https://github.com/Wyverical/Resources/blob/main/arrow.png" alt="To the Top" width="50" height="50">](https://github.com/Wyverical/Resources/tree/main/Blogs#blogs)
 
